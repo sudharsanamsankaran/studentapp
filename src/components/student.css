@@ -1,0 +1,39 @@
+.form-container {
+    width: 360px;
+    background-color: lightblue;
+    margin: auto;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    padding: 10px;
+  }
+
+  .th{
+      border: lightgreen;
+      width: 500px
+
+  }
+  
+  .register-form {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+  }
+  
+  .form-field {
+    margin: 10px 0 10px 0;
+    padding: 15px;
+    font-size: 16px;
+    border: 0;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  
+  input {
+    background: #f2f2f2;
+  }
+  
+  button {
+    background: #4caf50;
+    color: white;
+    cursor: pointer;
+  }
+  
